@@ -1,0 +1,21 @@
+HTTrack3.47-27+htsswf+htsjava launched on Thu, 15 May 2014 09:22:31 at http://the7.dream-demo.com/main/slideshows/revolution-slider/revolution-fancy-header-01/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2013], %s -->" -%l "en, *" http://the7.dream-demo.com/main/slideshows/revolution-slider/revolution-fancy-header-01/ -O1 D:israpool\israpool +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:22:32	Warning: 	Note: due to the7.dream-demo.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/, /wp-includes/ (see in the options to disable this)
+09:24:53	Error: 	"Not Found" (404) at link the7.dream-demo.com/main/slideshows/revolution-slider/revolution-fancy-header-01/GET (from the7.dream-demo.com/main/slideshows/revolution-slider/revolution-fancy-header-01/)
+09:25:33	Warning: 	Retry after error -4 (No data (connection closed)) at link the7demozone.dreamthemecom.netdna-cdn.com/main/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1 (from the7.dream-demo.com/main/slideshows/revolution-slider/revolution-fancy-header-01/)
+09:25:43	Warning: 	Retry after error 500 (Internal Server Error) at link the7demozone.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/css/img/close.png (from the7demozone.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/css/main.css?ver=4.1.3)
+09:25:43	Warning: 	Retry after error 500 (Internal Server Error) at link the7demozone.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/css/img/circles.png (from the7demozone.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/css/main.css?ver=4.1.3)
+09:25:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): the7demozone.dreamthemecom.netdna-cdn.com/main/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1
+09:25:44	Warning: 	Retry after error 500 () at link the7demozone.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/css/img/close.png (from the7demozone.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/css/main.css?ver=4.1.3)
+09:25:44	Warning: 	Retry after error 500 (Internal Server Error) at link the7demozone.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/css/img/circles.png (from the7demozone.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/css/main.css?ver=4.1.3)
+09:25:44	Error: 	"" (500) after 2 retries at link the7demozone.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/css/img/close.png (from the7demozone.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/css/main.css?ver=4.1.3)
+09:25:44	Error: 	"Internal Server Error" (500) after 2 retries at link the7demozone.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/css/img/circles.png (from the7demozone.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/css/main.css?ver=4.1.3)
+
+HTTrack Website Copier/3.47-27 mirror complete in 3 minutes 13 seconds : 294 links scanned, 286 files written (5771313 bytes overall) [4402456 bytes received at 22810 bytes/sec], 2192547 bytes transferred using HTTP compression in 49 files, ratio 28%, 1.1 requests per connection
+(3 errors, 7 warnings, 0 messages)
