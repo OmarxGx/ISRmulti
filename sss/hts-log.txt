@@ -1,0 +1,19 @@
+HTTrack3.47-27+htsswf+htsjava launched on Thu, 15 May 2014 17:58:47 at http://preview.oklerthemes.com/porto/3.0.0/index-5.html +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2013], %s -->" -%l "en, *" http://preview.oklerthemes.com/porto/3.0.0/index-5.html -O1 D:israpool2\sss +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:59:30	Error: 	Exit requested by shell or user
+17:59:40	Error: 	Exit requested by shell or user
+17:59:40	Error: 	"" (-1) at link preview.oklerthemes.com/porto/3.0.0/video/gray-clouds.mp4 (from preview.oklerthemes.com/porto/3.0.0/index-5.html)
+17:59:40	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.47-27 mirror complete in 53 seconds : 85 links scanned, 82 files written (2286074 bytes overall) [1180497 bytes received at 22273 bytes/sec], 1771259 bytes transferred using HTTP compression in 60 files, ratio 17%, 1.0 requests per connection
+(4 errors, 0 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
